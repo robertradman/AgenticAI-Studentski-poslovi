@@ -1,0 +1,8 @@
+.env
+.env.*
+.venv/
+.venv-*/
+__pycache__/
+*.pyc
+data/task_state.json
+reports/evaluation_report.json
